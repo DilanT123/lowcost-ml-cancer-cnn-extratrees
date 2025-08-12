@@ -1,0 +1,9 @@
+RESUMEN EJECUTIVO DE MODELOS
+==================================================
+                CNN  ExtraTrees  Combinado
+Accuracy   0.784783    0.832609   0.673913
+Precision  0.783908    0.833817   0.619570
+Recall     0.784783    0.832609   0.673913
+F1-Score   0.784014    0.830276   0.635920
+
+Recomendación: El modelo individual ExtraTrees supera a la combinación por 30.56% en F1-Score
